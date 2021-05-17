@@ -31,5 +31,5 @@ Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/
 Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip) <br/>
 
 ### Instruction
-Once you download the environment, place the file in the 'p1_navigation/' folder and unzip (or decompress) the file. <br/>
-After you have followed the instructions above, open 'Navigation.ipynb' to train the agent and the network weights are saved in the 'checkpoint' folder. You can use them to evaluate the agent's performance.
+Once you download the environment, place the file in the `Project1_navigation/` folder and unzip (or decompress) the file. <br/>
+After you have followed the instructions above, open `Navigation.ipynb` to train the agent and the network weights are saved in the `checkpoint` folder. You can use them to evaluate the agent's performance.
