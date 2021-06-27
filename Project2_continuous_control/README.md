@@ -13,7 +13,7 @@ For this project, I choose the version of the Unity environment which contains 2
 
 The environment is considered solved, when the average (over 100 episodes) of those **average scores** is at least +30. 
 
-The method I choose is the Deep Deterministic Policy Gradient (DDPG) algortithm, an actor-critic algorithm for learning continous actions. 
+The method I choose is the **Deep Deterministic Policy Gradient (DDPG)** algortithm, an actor-critic algorithm for learning continous actions. 
 It uses Experience Replay and slow-learning target networks from DQN, and it is based on DPG, which can operate over continuous action spaces.
 
 ### Getting started
@@ -29,7 +29,7 @@ For this project, you will **not** need to install Unity - this is because we ha
 - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86.zip)
 - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86_64.zip)
 
-**Version 2: Twenty (20) Agent**
+**Version 2: Twenty (20) Agents**
 - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
 - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
 - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)
